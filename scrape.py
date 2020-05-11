@@ -25,7 +25,7 @@ print('Fetching Members...')
 all_participants = []
 
 #enter target group or channel
-target = '@ScontiInAzione'
+target = '@testxiaomiwin'
 
 all_participants = client.get_participants(target, aggressive=True)
 
